@@ -1,2 +1,5 @@
 some configuaration made to new file 
 in the new file. 
+
+
+All new changes to be committed. 
