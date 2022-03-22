@@ -1,0 +1,4 @@
+Assessing Overlap in Propensity Score Distributions 
+Compute log odds ratio for each observation from PScore. 
+Now test for the overlap in distribution in log odds ratio. 
+For each group compute mean of log odds, and variance of log odds (with the right DOF) and then take the ratio of difference in means divided by the square root of the mean of variances.
